@@ -1,0 +1,17 @@
+.container-root {
+    border: 1px solid gainsboro;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    padding-bottom: 25px;
+}
+
+.container-border {
+    max-width: 95% !important;
+    border-bottom: 2px solid gainsboro;
+    margin: 0 auto;
+}
+
+.row-company {
+    margin-top: 25px;
+}

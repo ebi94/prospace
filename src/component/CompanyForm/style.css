@@ -1,0 +1,19 @@
+.box-form {
+    margin: 15px;
+}
+
+.warning-text {
+    color: red;
+}
+
+.input-form {
+    display: flex;
+}
+
+.hidden-text {
+    color: white;
+}
+
+.button-submit {
+    width: 100%;
+}

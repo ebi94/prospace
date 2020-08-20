@@ -1,0 +1,12 @@
+.box-company {
+  text-align: start;
+  margin-bottom: 25px;
+}
+
+.header-card {
+  display: inline-flex;
+}
+
+.title-header-card {
+  width: 80%;
+}
